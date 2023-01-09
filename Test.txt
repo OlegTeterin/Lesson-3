@@ -1,1 +1,2 @@
 Test for git add.
+Test for commit.
