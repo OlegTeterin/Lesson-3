@@ -25,4 +25,4 @@ git status - показывает текущие изменения
 **Раздел 2**
 *2.1 Working whith images*
 Чтобы вставить изображение в текст, достаточно написать следующее:
-![This is auction](20111010_sd-charity.jpg) 
+![This is auction](20111010_sd-charity.jpg)
